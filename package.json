@@ -14,12 +14,18 @@
     "lodash.omit": "^4.5.0",
     "lodash.range": "^3.2.0",
     "whatwg-fetch": "^2.0.3",
-    "react-isolated-scroll": "^0.1.0"
+    "react-isolated-scroll": "^0.1.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.0",
     "jest-enzyme": "^7.0.2",
     "jest-fetch-mock": "^2.1.2"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
