@@ -10,7 +10,7 @@
     "sku": "8.14.6",
     "auth0-js": "^9.4.2",
     "jwt-decode": "^2.2.0",
-    "raygun4js": "^2.6.1",
+    "raygun4js": "^2.18.3",
     "lodash.omit": "^4.5.0",
     "lodash.range": "^3.2.0",
     "whatwg-fetch": "^2.0.3",
