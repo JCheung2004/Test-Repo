@@ -7,7 +7,7 @@
     "react-dom": "16.8.6",
     "react-helmet": "5.2.1",
     "seek-style-guide": "40.2.0",
-    "sku": "8.14.6",
+    "sku": "10.0.0",
     "auth0-js": "^9.4.2",
     "jwt-decode": "^2.2.0",
     "raygun4js": "^2.6.1",
